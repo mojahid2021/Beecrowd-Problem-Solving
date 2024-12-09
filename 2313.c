@@ -19,11 +19,11 @@ int main () {
             
         }
 
-         if ( A*A == B*B + C*C || B*B == A*A + C*C || C*C == A*A + B*B)
-    {
-        printf("Retangulo: S\n");
+        if ( A*A == B*B + C*C || B*B == A*A + C*C || C*C == A*A + B*B)
+        {
+            printf("Retangulo: S\n");
 
-    } else
+        } else
     {
         printf("Retangulo: N\n");
 
