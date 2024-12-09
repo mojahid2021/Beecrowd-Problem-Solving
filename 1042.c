@@ -7,7 +7,6 @@ int main () {
     {
         printf("%d\n%d\n %d\n", a, b,c );
     }
-    
     printf("\n");
     printf("%d\n%d\n %d\n", a, b,c );
 
